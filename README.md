@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZOmohundro2020
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript and React.
+:computer:Front-End Developer
+
+:musical_keyboard: Musician
 
 <!---
 ZOmohundro2020/ZOmohundro2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
